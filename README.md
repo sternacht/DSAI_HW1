@@ -1,2 +1,4 @@
 # DSAI_HW1
 DSAI2022 homework1
+E94076194 黃彤洋
+E94076186 許中瑋
