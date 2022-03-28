@@ -38,10 +38,10 @@ E94076186 許中瑋
 接著將2019、2020、2021、2022不同年度至 3 月初的資料分別以不同的顏色呈現
 
 ### 淨尖峰供電
-![](https://i.imgur.com/s0zia12.png)
+![](https://i.imgur.com/aGDgtij.png)
 
 ### 尖峰負載
-![](https://i.imgur.com/CzZ23A7.png)
+![](https://i.imgur.com/7vNzyzb.png)
 
 可以從圖中發現三個特徵
 
@@ -75,7 +75,7 @@ E94076186 許中瑋
 
 將兩者同時繪製成圖表
 
-![](https://i.imgur.com/8Ym7Xru.png)
+![](https://i.imgur.com/r5acMqv.png)
 
 可以發現`尖峰負載`與`淨尖峰供電`在星期上皆有著相同的趨勢，在這個結果下，我們可以假設除星期以外條件完全相同的兩日，若我們要用舊有的數據去預測，我們可以以平均計算比例去預測。
 
